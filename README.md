@@ -8,3 +8,9 @@ This repository contains a Jupyter Notebook demonstrating a machine learning pro
 - VScode environment
 ### requirements
 - python
+- numpy
+- missingno
+- seaborn
+- sklearn
+- xgboost
+- matplotlib
